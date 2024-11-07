@@ -3,5 +3,6 @@
 `systemctl edit nftables`
 
 set up systemd-networkd for VLANS
-apt install python3-yaml python3-nftables
+apt install python3-yaml python3-nftables python3-pyroute2
+
 
